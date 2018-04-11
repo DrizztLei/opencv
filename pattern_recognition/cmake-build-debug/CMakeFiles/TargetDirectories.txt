@@ -1,0 +1,3 @@
+/home/elvis/work/opencv/pattern_recognition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elvis/work/opencv/pattern_recognition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elvis/work/opencv/pattern_recognition/cmake-build-debug/CMakeFiles/pattern_recognition.dir

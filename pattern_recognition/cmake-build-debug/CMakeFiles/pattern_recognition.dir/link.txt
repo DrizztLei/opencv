@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/pattern_recognition.dir/main.cpp.o  -o pattern_recognition 
